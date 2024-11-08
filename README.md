@@ -17,7 +17,7 @@ A lightweight and efficient real-time messaging server developed in Java, design
 
 ### Prerequisites
 - Java Development Kit (JDK) 8 or later.
-- A preferred IDE (e.g., NetBeans, Eclipse).
+- A preferred IDE (I use Here NetBeans).
 
 ### Steps
 1. Clone the repository to your local machine:
